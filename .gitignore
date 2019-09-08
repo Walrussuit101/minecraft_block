@@ -1,1 +1,2 @@
-gifs
+gifs/*
+!gifs/xyRotation.gif
